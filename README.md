@@ -34,19 +34,25 @@ each resource is English resource unless it's title written in Arabic or there i
 
 #### Coding Interviews:
 - [Python for Coding Interviews - Everything you need to Know](https://www.youtube.com/watch?v=0K_eZGS5NsU&list=WL&index=28&t=2s)
-- 
 
 #### Single Videos:
 - [Build Your Own Web Server from Scratch using Python](https://www.youtube.com/watch?v=Hncp0mPfUvk&list=WL&index=27&t=1312s)
 - [Python Automation with Selenium](https://www.youtube.com/watch?v=jNoTEiI2cVU&list=WL&index=44)
 - [Recursion for Beginners: A Beginner's Guide to Recursion with Python](https://www.youtube.com/watch?v=AfBqVVKg4GE&list=WL&index=103)
+- [Refactoring Code with the Standard Library](https://www.youtube.com/watch?v=KxWsM9Kh1FY&list=WL&index=102)
 
 
 ### JavaScript:
 
-### Asynchrounous JavaScript:
+#### Asynchrounous JavaScript:
 - [Asynchronous JavaScript Course – Async/Await , Promises, Callbacks, Fetch API](https://www.youtube.com/watch?v=OFpqvaJ3QYg&list=WL&index=32)
 - [The last video on javascript promises you'll ever need to watch](https://www.youtube.com/watch?v=52JDIMoTTzI&list=WL&index=90)
+
+#### React:
+- [React Hooks full playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PSdiQpSxO9zxvB0ns6m3ta)
+
+#### Single Videos:
+- [Build a Dev Portfolio as a 2D Game – JavaScript Course](https://www.youtube.com/watch?v=wy_fSStEgMs&list=WL&index=65)
 
 
 ### Java:
