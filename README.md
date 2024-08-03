@@ -35,6 +35,9 @@ each resource is English resource unless it's title written in Arabic or there i
 #### Coding Interviews:
 - [Python for Coding Interviews - Everything you need to Know](https://www.youtube.com/watch?v=0K_eZGS5NsU&list=WL&index=28&t=2s)
 
+#### Solid Princibles:
+- [SOLID Design Principles with Python](https://www.youtube.com/playlist?list=PLhH3UpV2flrxYmbhZ3V7C0bfrl2pAt3i6)
+
 #### Single Videos:
 - [Build Your Own Web Server from Scratch using Python](https://www.youtube.com/watch?v=Hncp0mPfUvk&list=WL&index=27&t=1312s)
 - [Python Automation with Selenium](https://www.youtube.com/watch?v=jNoTEiI2cVU&list=WL&index=44)
