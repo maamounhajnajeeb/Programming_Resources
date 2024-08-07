@@ -38,6 +38,10 @@ each resource is English resource unless it's title written in Arabic or there i
 #### Solid Princibles:
 - [SOLID Design Principles with Python](https://www.youtube.com/playlist?list=PLhH3UpV2flrxYmbhZ3V7C0bfrl2pAt3i6)
 
+#### Integrate with Telegram:
+- [Telegram Automation Crash Course | Telegram Automation With Python](https://www.youtube.com/watch?v=EQKGTpS8t9E&list=WL&index=105)
+- [How To Create A Telegram Bot With Python](https://www.youtube.com/watch?v=NwBWW8cNCP4&list=WL&index=27)
+
 #### Single Videos:
 - [Build Your Own Web Server from Scratch using Python](https://www.youtube.com/watch?v=Hncp0mPfUvk&list=WL&index=27&t=1312s)
 - [Python Automation with Selenium](https://www.youtube.com/watch?v=jNoTEiI2cVU&list=WL&index=44)
@@ -78,7 +82,7 @@ each resource is English resource unless it's title written in Arabic or there i
 
 ### Computer Networking:
 - [Computer networking - basic to advance](https://www.youtube.com/watch?v=0PbTi_Prpgs&list=WL&index=96&t=1s&pp=gAQBiAQB)
-- [Netowrk Protocols](https://www.youtube.com/watch?v=5G4CiHr97Lw&list=WL&index=116&t=71s)
+- [Netowrk Protocols (in Arabic)](https://www.youtube.com/watch?v=5G4CiHr97Lw&list=WL&index=116&t=71s)
 
 
 ### Data Structures & Algorithms:
@@ -118,10 +122,12 @@ each resource is English resource unless it's title written in Arabic or there i
 
 #### Channels and PlayLists:
 - [Talk Python](https://www.youtube.com/@talkpython)
+- [Real Pyhton Podcast](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ)
 - [FreeCodeCamp Podcast](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm04DK8TSUCRheRjW2P9TR7)
 - [بودكاست كلام في البرمجة](https://www.youtube.com/playlist?list=PL8q8h6vqfkSUBH_JiV5-2fPmHuSIDABdW)
 
 #### Single Podcasts:
+- [Pydantic Data Validation & Python Web Security Practices | Real Python Podcast](https://www.youtube.com/watch?v=vFRkOk3NYLg)
 - [أسرار الأنترفيو وازاي تعمل سي في قوي يتقبل في الشركات | بودكاست كلام في البرمجة](https://www.youtube.com/watch?v=oW8ohnt_sQM&list=WL&index=19)
 - [بودكاست مع ابراهيم حجازي | لا يوجد جهاز آمن من الاختراق، كيف تحمي نفسك من الهاكرز؟](https://www.youtube.com/watch?v=RTP3wGflIOw&list=WL&index=146&t=1s)
 - [What Scott Hanselman learned from doing 900 podcast interviews with devs](https://www.youtube.com/watch?v=7K6bCewZzJU&list=WL&index=38)
