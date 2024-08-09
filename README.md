@@ -18,6 +18,21 @@ each resource is English resource unless it's title written in Arabic or there i
 
 ### Python:
 
+#### 1] Basics:
+- You can start from here:[]()
+this playlist will teach you basic python programming, this tutorial is divided to sections after you watch each section go to this webpage and solve the assignments: []()
+
+#### 2] Basic Projects:
+- After you learn Python basics you need to work on practical projects to make sure you had understand what you learn [5 Mini Python Projects - For Beginners](https://www.youtube.com/watch?v=DLn3jOsNRVE)
+
+#### 3] Object Oriented Programming Concepts:
+Object Oriented Programming (OOP) is one of the most important concept you have to work on throught you programming career, you have to learn it pretty good and do bunch of projects with it to understand how things really work
+- You can start with this tutorial [Object-Oriented Programming with Python](https://www.youtube.com/watch?v=-YhddS9_uus)
+(note if this course doesn't make sense to you, check this [Object Oriented Programming with Python](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=302s))
+
+#### 4] Object Oriented Programming Practical Projects:
+
+
 #### Projects:
 - [Tic Tac Toe (Object Oriented Programming project (in Arabic))](https://www.youtube.com/watch?v=GCYYkOSKj80&list=WL&index=97)
 - [Snake](https://www.youtube.com/watch?v=--nsd2ZeYvs&list=WL&index=92)
@@ -41,6 +56,9 @@ each resource is English resource unless it's title written in Arabic or there i
 #### Integrate with Telegram:
 - [Telegram Automation Crash Course | Telegram Automation With Python](https://www.youtube.com/watch?v=EQKGTpS8t9E&list=WL&index=105)
 - [How To Create A Telegram Bot With Python](https://www.youtube.com/watch?v=NwBWW8cNCP4&list=WL&index=27)
+
+#### Books:
+- [Dead Simple Python](https://www.goodreads.com/book/show/52555538-dead-simple-python?ac=1&from_search=true&qid=jNyPUDNk2w&rank=1)
 
 #### Single Videos:
 - [Build Your Own Web Server from Scratch using Python](https://www.youtube.com/watch?v=Hncp0mPfUvk&list=WL&index=27&t=1312s)
@@ -128,10 +146,12 @@ each resource is English resource unless it's title written in Arabic or there i
 
 #### Single Podcasts:
 - [Pydantic Data Validation & Python Web Security Practices | Real Python Podcast](https://www.youtube.com/watch?v=vFRkOk3NYLg)
+- [كيف تزيد من فرص توظيفك على لينكدإن | بودكاست فنجان](https://www.youtube.com/watch?v=ZMlnGCvCvzI)
 - [أسرار الأنترفيو وازاي تعمل سي في قوي يتقبل في الشركات | بودكاست كلام في البرمجة](https://www.youtube.com/watch?v=oW8ohnt_sQM&list=WL&index=19)
 - [بودكاست مع ابراهيم حجازي | لا يوجد جهاز آمن من الاختراق، كيف تحمي نفسك من الهاكرز؟](https://www.youtube.com/watch?v=RTP3wGflIOw&list=WL&index=146&t=1s)
 - [What Scott Hanselman learned from doing 900 podcast interviews with devs](https://www.youtube.com/watch?v=7K6bCewZzJU&list=WL&index=38)
 - [How to get a FAANG Dev Job in your 40s with Coding Interview University creator John Washam](https://www.youtube.com/watch?v=B-QBZrkD06U&list=WL&index=20&t=13s)
 
 
-### 
+### Talks:
+- [The mind behind linux | Linus Torvalds | TED](https://www.youtube.com/watch?v=o8NPllzkFhE&list=WL&index=2)
