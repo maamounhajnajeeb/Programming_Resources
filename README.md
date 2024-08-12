@@ -84,6 +84,10 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 - [Design Patterns Playlist - 7 Videos](https://www.youtube.com/playlist?list=PLlNZpkgIOuFVRsL2Gq05hCxgt1OyIFtTZ) 
 
 
+### Go:
+- [5 Levels of Go Error Handling](https://www.youtube.com/watch?v=y5utZCeHys0&list=WL&index=2&t=1s)
+
+
 ### GitHub:
 - [GitHub Foundation Certificate Course - Microsoft Certificate with FreeCodeCamp](https://www.youtube.com/watch?v=Jdc0i7RcBv8&list=WL&index=100&t=9s&pp=gAQBiAQB)
 - [How to Undo Mistakes With Git Using the Command Line](https://www.youtube.com/watch?v=lX9hsdsAeTk&list=WL&index=66)
