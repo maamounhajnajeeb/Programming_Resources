@@ -32,6 +32,13 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 
 #### 4] Object Oriented Programming Practical Projects:
 
+#### Django Tutorials:
+
+#### Flask Tutorials:
+- Arabic course: https://www.youtube.com/playlist?list=PL6X8IkNltYY_MgJNuEX-S1OABlAGOVUUw
+- English course (Corray Schafer): https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH
+- English Rest APIs with Flask (Dave Gray): https://www.youtube.com/watch?v=z3YMz-Gocmw&t=1993s
+- Great Blog for Flask and Python: https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-iv-database
 
 #### Projects:
 - [Tic Tac Toe (Object Oriented Programming project (in Arabic))](https://www.youtube.com/watch?v=GCYYkOSKj80&list=WL&index=97)
