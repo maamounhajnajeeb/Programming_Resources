@@ -74,6 +74,10 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 - [Refactoring Code with the Standard Library](https://www.youtube.com/watch?v=KxWsM9Kh1FY&list=WL&index=102)
 
 
+### SQL:
+#### [PostgreSQL In-Depth Training](https://www.youtube.com/playlist?list=PLhr1KZpdzukeAZuX0pNZ1lLDkaZWBOhQT)
+
+
 ### JavaScript:
 
 #### Asynchrounous JavaScript:
