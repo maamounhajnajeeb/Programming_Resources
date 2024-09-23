@@ -170,3 +170,7 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 
 ### Talks:
 - [The mind behind linux | Linus Torvalds | TED](https://www.youtube.com/watch?v=o8NPllzkFhE&list=WL&index=2)
+
+
+### Documentary:
+#### [Ruby on Rails | The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4&list=WL&index=27)
