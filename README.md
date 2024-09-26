@@ -75,7 +75,9 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 
 
 ### SQL:
-#### [PostgreSQL In-Depth Training](https://www.youtube.com/playlist?list=PLhr1KZpdzukeAZuX0pNZ1lLDkaZWBOhQT)
+
+#### PostgreSQL:
+- [PostgreSQL In-Depth Training](https://www.youtube.com/playlist?list=PLhr1KZpdzukeAZuX0pNZ1lLDkaZWBOhQT)
 
 
 ### JavaScript:
