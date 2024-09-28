@@ -176,3 +176,4 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 
 ### Documentary:
 #### [Ruby on Rails | The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4&list=WL&index=27)
+#### [Vue.js](https://www.youtube.com/watch?v=OrxmtDw4pVI&list=WL&index=12)
