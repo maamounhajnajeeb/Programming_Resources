@@ -125,6 +125,13 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 - [Convert a Sorted Doubly LinkedList to a Binary Search Tree](https://www.youtube.com/watch?v=aRbYMAxK6s4&list=WL&index=133)
 
 
+### CI/CD
+- [What is CI/CD (Arabic Tutorial)](https://www.youtube.com/watch?v=XdaW-gVzsXo&t=1356s)
+- [CI/CD trends with practical example (Arabic Tutorial)](https://www.youtube.com/watch?v=7rHegx18NPo&list=WL&index=4)
+- [BitBucket pipelines (official Alatassian playlist)](https://www.youtube.com/playlist?list=PLaD4FvsFdarRipSwRNiBKt6CZTrK_ndLn)
+- [BitBucket pipelines practical example with wordpress (Travis Media channel)](https://www.youtube.com/watch?v=OCA_jB1Dw0I)
+
+
 ### AI Videos:
 - [How to Use ChatGPT as a Powerful Tool for Programming](https://www.youtube.com/watch?v=jRAAaDll34Q&list=WL&index=129)
 - [كيف تستخدم الذكاء الاصطناعي كمبرمج؟ ChatGPT in VsCode](https://www.youtube.com/watch?v=qH-wuvdF69w&list=WL&index=128&t=229s)
