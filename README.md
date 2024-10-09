@@ -89,6 +89,9 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 #### React:
 - [React Hooks full playlist](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PSdiQpSxO9zxvB0ns6m3ta)
 
+#### Vue:
+- [Vue crash course](https://youtu.be/VeNfHj6MhgA?si=uwgjkudFWBtmA8pL)
+
 #### Single Videos:
 - [Build a Dev Portfolio as a 2D Game – JavaScript Course](https://www.youtube.com/watch?v=wy_fSStEgMs&list=WL&index=65)
 
