@@ -45,6 +45,9 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 - [Snake](https://www.youtube.com/watch?v=--nsd2ZeYvs&list=WL&index=92)
 - [3 PYTHON AUTOMATION PROJECTS FOR BEGINNERS](https://www.youtube.com/watch?v=vEQ8CXFWLZU&list=WL&index=138)
 
+#### Testing:
+- [Unit Testing Your Code with the unittest Module](https://www.youtube.com/watch?v=6tNS--WetLI&list=WL&index=2)
+
 #### Desktop Application:
 - [Tkinter Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsllUYGWPRStXSSKwonuvei)
 
@@ -78,6 +81,9 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 
 #### PostgreSQL:
 - [PostgreSQL In-Depth Training](https://www.youtube.com/playlist?list=PLhr1KZpdzukeAZuX0pNZ1lLDkaZWBOhQT)
+
+#### SQL Databases:
+- [Databases In-Depth](https://www.youtube.com/watch?v=pPqazMTzNOM&list=WL&index=2&t=1s)
 
 
 ### JavaScript:
