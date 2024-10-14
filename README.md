@@ -116,6 +116,7 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 
 
 ### Linux:
+- [Linux For Developers 101 - Course](https://www.youtube.com/playlist?list=PLpJtaIgvI9k9NTnbOkk6N1EDW98xvzE--)
 - [Linux Shell 101 - بيئة الأوامر للمبتدئين](https://www.youtube.com/watch?v=ASpF00mpFXw&list=WL&index=16)
 - [Linux full course (excellent one actually) (in Arabic)](https://www.youtube.com/watch?v=gojeTqXdBH0&list=WL&index=18&t=1792s)
 
