@@ -32,7 +32,21 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 
 #### 4] Object Oriented Programming Practical Projects:
 
+#### 5] Python Standard Library Tutorials:
+Python's standard library is very extensive, offering a wide range of facilities, more on [docs link](https://docs.python.org/3/library/index.html).</br>
+
+##### Pathlib:
+- Official lib: [docs](https://docs.python.org/3/library/pathlib.html)
+- Video tutorial: [Pathlib - The Modern Way to Handle File Paths](https://www.youtube.com/watch?v=yxa-DJuuTBI&list=WL&index=41)
+
 #### Django Tutorials:
+
+##### SSL With Django:
+- [What is SSL? (Arabic Video)](https://www.youtube.com/watch?v=9EOdDUmAErQ&list=WL&index=70)
+- [How to Install an SSL Certificate for Django and get HTTPS (for free)](https://www.youtube.com/watch?v=dYdv6pkCufk&list=WL&index=68&t=172s)
+- [Deploy Django Web App With SSL to VPS with Nginx & Gunicorn | Full Tutorial 2024](https://www.youtube.com/watch?v=RsrJzKPigc4&list=WL&index=66)
+- [Python Django Tutorial: How to enable HTTPS with a free SSL/TLS Certificate using Let's Encrypt (Coray Schafer)](https://www.youtube.com/watch?v=NhidVhNHfeU&list=WL&index=58)
+- [How to Secure Your Applications with HTTPS Using Docker, NGINX, and Let's Encrypt](https://www.youtube.com/watch?v=J9jKKeV1XVE&list=WL&index=59&t=1s)
 
 #### Flask Tutorials:
 - Arabic course: https://www.youtube.com/playlist?list=PL6X8IkNltYY_MgJNuEX-S1OABlAGOVUUw
@@ -118,7 +132,8 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 ### Linux:
 - [Linux For Developers 101 - Course](https://www.youtube.com/playlist?list=PLpJtaIgvI9k9NTnbOkk6N1EDW98xvzE--)
 - [Linux Shell 101 - بيئة الأوامر للمبتدئين](https://www.youtube.com/watch?v=ASpF00mpFXw&list=WL&index=16)
-- [Linux full course (excellent one actually) (in Arabic)](https://www.youtube.com/watch?v=gojeTqXdBH0&list=WL&index=18&t=1792s)
+- [Linux full course (an excellent one actually) (in Arabic)](https://www.youtube.com/watch?v=gojeTqXdBH0&list=WL&index=18&t=1792s)
+- [Linux Server Course - System Configuration and Operation (freeCodeCamp)](https://www.youtube.com/watch?v=WMy3OzvBWc0&list=WL&index=83)
 
 
 ### APIs:
