@@ -39,6 +39,11 @@ Python's standard library is very extensive, offering a wide range of facilities
 - Official lib: [docs](https://docs.python.org/3/library/pathlib.html)
 - Video tutorial: [Pathlib - The Modern Way to Handle File Paths](https://www.youtube.com/watch?v=yxa-DJuuTBI&list=WL&index=41)
 
+#### GeoSpatial Python:
+It's an arabic playlist that explain GeoSpatial terms like: Point, LineString and PolyGon using Python programming language.</br>
+After that, there are videos to introduce GeoPandas.</br>
+Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2Bnne8qzu89znvQNvX8jY)
+
 #### Django Tutorials:
 
 ##### SSL With Django:
@@ -95,6 +100,10 @@ Python's standard library is very extensive, offering a wide range of facilities
 
 #### PostgreSQL:
 - [PostgreSQL In-Depth Training](https://www.youtube.com/playlist?list=PLhr1KZpdzukeAZuX0pNZ1lLDkaZWBOhQT)
+
+##### PostgreSQL Indexing:
+- [A talk about indexes (PostgresConf South Africa)](https://www.youtube.com/watch?v=HAn1xu6_SW0&list=WL&index=24&t=27s)
+- [PostgreSQL Indexing : How, why, and when (PyCon AU)](https://www.youtube.com/watch?v=clrtT_4WBAw&list=WL&index=24)
 
 #### SQL Databases:
 - [Databases In-Depth](https://www.youtube.com/watch?v=pPqazMTzNOM&list=WL&index=2&t=1s)
