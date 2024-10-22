@@ -203,7 +203,8 @@ Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2B
 - [FreeCodeCamp Podcast](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm04DK8TSUCRheRjW2P9TR7)
 - [بودكاست البرمجة لقناة كودزيلا](https://www.youtube.com/playlist?list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy)
 
-#### Special Podcast Episodes:
+#### Special Episodes:
+- [FAANG من مصر الى ميكروسوفت و آبل وخبرة ٢٠ سنه في اقوى شركات التقنية](https://www.youtube.com/watch?v=6xMzJS0AuJ0&list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy&index=1&t=6467s)
 - [Pydantic Data Validation & Python Web Security Practices | Real Python Podcast](https://www.youtube.com/watch?v=vFRkOk3NYLg)
 - [كيف تزيد من فرص توظيفك على لينكدإن | بودكاست فنجان](https://www.youtube.com/watch?v=ZMlnGCvCvzI)
 - [أسرار الأنترفيو وازاي تعمل سي في قوي يتقبل في الشركات | بودكاست كلام في البرمجة](https://www.youtube.com/watch?v=oW8ohnt_sQM&list=WL&index=19)
