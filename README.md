@@ -39,7 +39,7 @@ Python's standard library is very extensive, offering a wide range of facilities
 - Official lib: [docs](https://docs.python.org/3/library/pathlib.html)
 - Video tutorial: [Pathlib - The Modern Way to Handle File Paths](https://www.youtube.com/watch?v=yxa-DJuuTBI&list=WL&index=41)
 
-#### GeoSpatial Python:
+#### <u>GeoSpatial Python:</u>
 It's an arabic playlist that explain GeoSpatial terms like: Point, LineString and PolyGon using Python programming language.</br>
 After that, there are videos to introduce GeoPandas.</br>
 Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2Bnne8qzu89znvQNvX8jY)
@@ -98,6 +98,9 @@ Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2B
 
 ### SQL:
 
+#### SQL Databases:
+- [Databases In-Depth](https://www.youtube.com/watch?v=pPqazMTzNOM&list=WL&index=2&t=1s)
+
 #### PostgreSQL:
 - [PostgreSQL In-Depth Training](https://www.youtube.com/playlist?list=PLhr1KZpdzukeAZuX0pNZ1lLDkaZWBOhQT)
 
@@ -105,8 +108,8 @@ Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2B
 - [A talk about indexes (PostgresConf South Africa)](https://www.youtube.com/watch?v=HAn1xu6_SW0&list=WL&index=24&t=27s)
 - [PostgreSQL Indexing : How, why, and when (PyCon AU)](https://www.youtube.com/watch?v=clrtT_4WBAw&list=WL&index=24)
 
-#### SQL Databases:
-- [Databases In-Depth](https://www.youtube.com/watch?v=pPqazMTzNOM&list=WL&index=2&t=1s)
+#### MySQL:
+- [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers)
 
 
 ### JavaScript:
@@ -195,14 +198,12 @@ Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2B
 
 
 ### Podcast:
-
-#### Channels and PlayLists:
-- [Talk Python](https://www.youtube.com/@talkpython)
+- [Talk Python](https://www.youtube.com/playlist?list=PLJa4b8U-H1eqHnIVHlhBjjOhH6v9FK3U_)
 - [Real Pyhton Podcast](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0zDf2TqlGkqlBOjIuzm_BJ)
 - [FreeCodeCamp Podcast](https://www.youtube.com/playlist?list=PLWKjhJtqVAbm04DK8TSUCRheRjW2P9TR7)
-- [بودكاست كلام في البرمجة](https://www.youtube.com/playlist?list=PL8q8h6vqfkSUBH_JiV5-2fPmHuSIDABdW)
+- [بودكاست البرمجة لقناة كودزيلا](https://www.youtube.com/playlist?list=PLsqPSxnrsWLuE-O3IKIUWy6Hmelz3bMWy)
 
-#### Single Podcasts:
+#### Special Podcast Episodes:
 - [Pydantic Data Validation & Python Web Security Practices | Real Python Podcast](https://www.youtube.com/watch?v=vFRkOk3NYLg)
 - [كيف تزيد من فرص توظيفك على لينكدإن | بودكاست فنجان](https://www.youtube.com/watch?v=ZMlnGCvCvzI)
 - [أسرار الأنترفيو وازاي تعمل سي في قوي يتقبل في الشركات | بودكاست كلام في البرمجة](https://www.youtube.com/watch?v=oW8ohnt_sQM&list=WL&index=19)
@@ -217,4 +218,4 @@ Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2B
 
 ### Documentary:
 #### [Ruby on Rails | The Documentary](https://www.youtube.com/watch?v=HDKUEXBF3B4&list=WL&index=27)
-#### [Vue.js](https://www.youtube.com/watch?v=OrxmtDw4pVI&list=WL&index=12)
+#### [Vue.js | The Documentary](https://www.youtube.com/watch?v=OrxmtDw4pVI&list=WL&index=12)
