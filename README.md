@@ -108,6 +108,9 @@ Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2B
 - [A talk about indexes (PostgresConf South Africa)](https://www.youtube.com/watch?v=HAn1xu6_SW0&list=WL&index=24&t=27s)
 - [PostgreSQL Indexing : How, why, and when (PyCon AU)](https://www.youtube.com/watch?v=clrtT_4WBAw&list=WL&index=24)
 
+##### PostGIS:
+- [PostGIS مقدمة لتقنية الـ](https://www.youtube.com/watch?v=_6M1zw3EHvc&list=WL&index=112&t=2599s)
+
 #### MySQL:
 - [MySQL for Developers](https://planetscale.com/learn/courses/mysql-for-developers)
 
@@ -142,6 +145,7 @@ Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2B
 
 
 ### Linux:
+- [إختيار توزيعة لينكس الأنسب لاحتياجك! What is Linux ؟](https://www.youtube.com/watch?v=boGLyR2dUVs&list=WL&index=7)
 - [Linux For Developers 101 - Course](https://www.youtube.com/playlist?list=PLpJtaIgvI9k9NTnbOkk6N1EDW98xvzE--)
 - [Linux Shell 101 - بيئة الأوامر للمبتدئين](https://www.youtube.com/watch?v=ASpF00mpFXw&list=WL&index=16)
 - [Linux full course (an excellent one actually) (in Arabic)](https://www.youtube.com/watch?v=gojeTqXdBH0&list=WL&index=18&t=1792s)
