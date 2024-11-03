@@ -31,6 +31,12 @@ Object Oriented Programming (OOP) is one of the most important concept you have 
 (note if this course doesn't make sense to you, check this [Object Oriented Programming with Python](https://www.youtube.com/watch?v=Ej_02ICOIgs&t=302s))
 
 #### 4] Object Oriented Programming Practical Projects:
+You learnt about OOP and now you have basic knowledge of what Object Oriented Programming stands for, So it's practical projects time, these OOP projects are useful (you can see any project you want, these are just reccomendations):
+
+#### 5] Object Oriented Programming In-Depth:
+After learning what object oriented programming is, and applin what you have learnt on projects, you have to go in-depth with OOP concepts in Python.</br>
+This book is very useful: [Python3 OOP by Dusty Phillips](https://www.goodreads.com/book/show/8679996-python-3-object-oriented-programming).</br>
+As usual, you have to apply what you have learnt from this books on projects
 
 #### 5] Python Standard Library Tutorials:
 Python's standard library is very extensive, offering a wide range of facilities, more on [docs link](https://docs.python.org/3/library/index.html).</br>
@@ -96,7 +102,11 @@ Check playlist from [here](https://www.youtube.com/playlist?list=PLuViiPriYOJY2B
 - [Refactoring Code with the Standard Library](https://www.youtube.com/watch?v=KxWsM9Kh1FY&list=WL&index=102)
 
 
-### SQL:
+### SQL Databases:
+
+#### Manara Databases Certificate:
+It's good place to start with databases from, it offers five learning sections and completion certificate
+You can check it from [here](). 
 
 #### SQL Databases:
 - [Databases In-Depth](https://www.youtube.com/watch?v=pPqazMTzNOM&list=WL&index=2&t=1s)
